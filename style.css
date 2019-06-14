@@ -1,5 +1,4 @@
 body {
-  font-weight: 400;
   font-size: 11pt;
   font-family: "EB Garamond";
   font-style: normal;
@@ -9,12 +8,9 @@ body {
 
 .bounding {
   width: 816px;
-	margin: 40px auto 60px;
+  margin: 40px auto 60px;
   padding: 75px;
   background-color: white;
-  /* border-style: solid;
-  border-width: 2px;
-  border-color: f0f0f0; */
   box-shadow: 0 1px 3px 1px rgba(60,64,67,.15);
   box-shadow: 0 0 0 0.75pt #d1d1d1,0 0 3pt 0.75pt #ccc;
 }
@@ -35,7 +31,6 @@ body {
 }
 
 .content {
-  /* font-weight: 400; */
   font-size: 11pt;
   font-family: "EB Garamond";
   font-style: normal;
@@ -45,7 +40,6 @@ body {
 .c2 {
   margin-left: 36pt;
   padding: 0;
-  /* line-height: 1.15; */
   text-align: left;
 }
 
@@ -53,14 +47,6 @@ body {
   font-size: 17pt;
   text-transform: uppercase;
 }
-/* h3 {
-  font-family: "EB Garamond";
-  font-size: 17pt;
-  text-transform: uppercase;
-  font-weight: normal;
-  line-height: 0px;
-  padding-top: 50px;
-} */
 
 ul {
   list-style-type: none;
